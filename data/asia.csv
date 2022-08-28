@@ -1,0 +1,21 @@
+,countries,ioc_code,region,summer_participations,summer_gold,summer_silver,summer_bronze,summer_total,winter_participations,winter_gold,winter_silver,winter_bronze,winter_total,total_participation,total_gold,total_silver,total_bronze,total_total
+0,China,(CHN),Asia,11,262,199,173,634,12,22,32,23,77,23,284,231,196,711
+1,Hong Kong,(HKG),Asia,17,2,3,4,9,6,0,0,0,0,23,2,3,4,9
+2,India,(IND),Asia,25,10,9,16,35,11,0,0,0,0,36,10,9,16,35
+3,Indonesia,(INA),Asia,16,8,14,15,37,0,0,0,0,0,16,8,14,15,37
+4,Japan,(JPN),Asia,23,169,150,178,497,22,17,28,31,76,45,186,178,209,573
+5,Kazakhstan,(KAZ),Asia,7,14,22,35,71,8,1,3,4,8,15,15,25,39,79
+6,North Korea,(PRK),Asia,10,16,16,23,55,9,0,1,1,2,19,16,17,24,57
+7,South Korea,(KOR),Asia,18,96,91,100,287,19,33,30,16,79,37,129,121,116,366
+8,Kyrgyzstan,(KGZ),Asia,7,0,3,4,7,8,0,0,0,0,15,0,3,4,7
+9,Malaysia,(MAS),Asia,14,0,8,5,13,2,0,0,0,0,16,0,8,5,13
+10,Mongolia,(MGL),Asia,14,2,11,17,30,15,0,0,0,0,29,2,11,17,30
+11,Philippines,(PHI),Asia,22,1,5,8,14,6,0,0,0,0,28,1,5,8,14
+12,Singapore,(SGP),Asia,17,1,2,2,5,1,0,0,0,0,18,1,2,2,5
+13,Sri Lanka,(SRI),Asia,18,0,2,0,2,0,0,0,0,0,18,0,2,0,2
+14,Chinese Taipei,(TPE),Asia,15,7,11,18,36,13,0,0,0,0,28,7,11,18,36
+15,Tajikistan,(TJK),Asia,7,1,1,2,4,4,0,0,0,0,11,1,1,2,4
+16,Thailand,(THA),Asia,17,10,8,17,35,5,0,0,0,0,22,10,8,17,35
+17,Turkmenistan,(TKM),Asia,7,0,1,0,1,0,0,0,0,0,7,0,1,0,1
+18,Uzbekistan,(UZB),Asia,7,10,6,20,36,8,1,0,0,1,15,11,6,20,37
+19,Vietnam,(VIE),Asia,16,1,3,1,5,0,0,0,0,0,16,1,3,1,5

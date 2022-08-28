@@ -1,0 +1,25 @@
+,countries,ioc_code,region,summer_participations,summer_gold,summer_silver,summer_bronze,summer_total,winter_participations,winter_gold,winter_silver,winter_bronze,winter_total,total_participation,total_gold,total_silver,total_bronze,total_total
+0,Botswana,(BOT),Africa,11,0,1,1,2,0,0,0,0,0,11,0,1,1,2
+1,Burkina Faso,(BUR),Africa,10,0,0,1,1,0,0,0,0,0,10,0,0,1,1
+2,Burundi,(BDI),Africa,7,1,1,0,2,0,0,0,0,0,7,1,1,0,2
+3,Cameroon,(CMR),Africa,15,3,1,2,6,1,0,0,0,0,16,3,1,2,6
+4,Ivory Coast,(CIV),Africa,14,1,1,2,4,0,0,0,0,0,14,1,1,2,4
+5,Djibouti,(DJI),Africa,9,0,0,1,1,0,0,0,0,0,9,0,0,1,1
+6,Eritrea,(ERI),Africa,6,0,0,1,1,2,0,0,0,0,8,0,0,1,1
+7,Ethiopia,(ETH),Africa,14,23,12,23,58,2,0,0,0,0,16,23,12,23,58
+8,Gabon,(GAB),Africa,11,0,1,0,1,0,0,0,0,0,11,0,1,0,1
+9,Ghana,(GHA),Africa,15,0,1,4,5,3,0,0,0,0,18,0,1,4,5
+10,Kenya,(KEN),Africa,15,35,42,36,113,4,0,0,0,0,19,35,42,36,113
+11,Mauritius,(MRI),Africa,10,0,0,1,1,0,0,0,0,0,10,0,0,1,1
+12,Mozambique,(MOZ),Africa,11,1,0,1,2,0,0,0,0,0,11,1,0,1,2
+13,Namibia,(NAM),Africa,8,0,5,0,5,0,0,0,0,0,8,0,5,0,5
+14,Niger,(NIG),Africa,13,0,1,1,2,0,0,0,0,0,13,0,1,1,2
+15,Nigeria,(NGR),Africa,17,3,11,13,27,2,0,0,0,0,19,3,11,13,27
+16,Senegal,(SEN),Africa,15,0,1,0,1,5,0,0,0,0,20,0,1,0,1
+17,South Africa,(RSA),Africa,20,27,33,29,89,7,0,0,0,0,27,27,33,29,89
+18,Sudan,(SUD),Africa,13,0,1,0,1,0,0,0,0,0,13,0,1,0,1
+19,Tanzania,(TAN),Africa,14,0,2,0,2,0,0,0,0,0,14,0,2,0,2
+20,Togo,(TOG),Africa,11,0,0,1,1,2,0,0,0,0,13,0,0,1,1
+21,Uganda,(UGA),Africa,16,4,4,3,11,0,0,0,0,0,16,4,4,3,11
+22,Zambia,(ZAM),Africa,14,0,1,1,2,0,0,0,0,0,14,0,1,1,2
+23,Zimbabwe,(ZIM),Africa,14,3,4,1,8,1,0,0,0,0,15,3,4,1,8
